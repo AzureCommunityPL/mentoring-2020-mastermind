@@ -67,7 +67,7 @@ https://en.wikipedia.org/wiki/Occam%27s_razor
 - ACI i AppService'y otrzymają sporo nowych funkcjonalności od strony sieci rozwiązujących wcześniejsze problemy z łącznością prywatną
 - Service Fabric jest cudowny, jednak ma wysoki próg wejścia by wykorzystać pełnię możliwości - konieczny C# i architektura systemów rozproszonych
 - AKS wymaga pilnowania bezstanowości service'ów i minimalizacja użytych elementów
-- Kluczowe jest nie nastawianie się na konkretną technologię, tylko problemy jakie należy rozwiązać - niekoniecznie mikroserwisy są lepsze od monolitu. Na przykładzie [MongoDB](https://www.youtube.com/watch?v=b2F-DItXtZs) i [Dilberta\(https://i.redd.it/8v9fopt6wlx31.jpg)
+- Kluczowe jest nie nastawianie się na konkretną technologię, tylko problemy jakie należy rozwiązać - niekoniecznie mikroserwisy są lepsze od monolitu. Na przykładzie [MongoDB](https://www.youtube.com/watch?v=b2F-DItXtZs) i [Dilberta](https://i.redd.it/8v9fopt6wlx31.jpg)
 
 
 
